@@ -1,6 +1,6 @@
 
 <a href="https://justagist.github.io"> 
-<img src="https://raw.githubusercontent.com/justagist/justagist/master/assets/github_profile.png" alt="Saif Sidhik Github Profile Banner">
+<img src="https://raw.githubusercontent.com/justagist/justagist/master/assets/github_profile.png" target="_blank" alt="Saif Sidhik Github Profile Banner">
 </a>
 
 <!-- ![](https://komarev.com/ghpvc/?username=justagist&color=b50e0e) -->
@@ -13,7 +13,7 @@ I am a PhD student in the Intelligent Robotics Lab at the University of Birmingh
 
 - I like creating robot interfaces and implementing algorithms for testing the capabilities of intelligent robot systems.
 - I especially enjoy working with robot manipulators in the context of assembly tasks involving challenging interaction dynamics and complex control strategies.
-- I also like discovering new things (codes, algorithms, languages, music, etc.) and trying them out in my own way.
+- I also like discovering things (codes, algorithms, languages, music, etc.) and trying them out in my own way.
 
 <h4 markdown="1">Get in touch</h4>
 
@@ -23,7 +23,7 @@ I am a PhD student in the Intelligent Robotics Lab at the University of Birmingh
 
 ***
 
-<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats"> <img src=https://github-readme-stats.vercel.app/api?username=justagist&show_icons=true&title_color=b50e0e&bg_color=0e0e0e&icon_color=b50e0e&text_color=FFFFFF&hide_border=false alt=justagist /></a> </p>
+<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"> <img src=https://github-readme-stats.vercel.app/api?username=justagist&show_icons=true&title_color=b50e0e&bg_color=0e0e0e&icon_color=b50e0e&text_color=FFFFFF&hide_border=false alt=justagist /></a> </p>
 
 ## Popular Repositories
 
