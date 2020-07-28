@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/justagist/justagist/master/assets/github_profile.png" target="_blank" alt="Saif Sidhik Github Profile Banner">
 </a>
 
-<!-- ![](https://komarev.com/ghpvc/?username=justagist&color=b50e0e) -->
+![](https://komarev.com/ghpvc/?username=justagist&color=b50e0e)
 
 <h4 markdown="1">About Me</h4>
 
