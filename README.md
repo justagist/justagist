@@ -23,7 +23,7 @@ I am a PhD student in the Intelligent Robotics Lab at the University of Birmingh
 
 ***
 
-<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"> <img src=https://github-readme-stats.vercel.app/api?username=justagist&show_icons=true&title_color=b50e0e&bg_color=0e0e0e&icon_color=b50e0e&text_color=FFFFFF&hide_border=false alt=justagist /></a> </p>
+<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"> <img src=https://github-readme-stats.vercel.app/api?username=justagist&show_icons=true&title_color=b50e0e&bg_color=0e0e0e&icon_color=b50e0e&text_color=FFFFFF&hide_border=false&count_private=true alt=justagist /></a> </p>
 
 ## Popular Repositories
 
