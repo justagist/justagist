@@ -17,7 +17,7 @@ I am a PhD student in the Intelligent Robotics Lab at the University of Birmingh
 
 <h4 markdown="1">Get in touch</h4>
 
-- 🌎 &nbsp;&nbsp;&nbsp; [justagist.github.io](https://justagist.github.io)
+- 🌎 &nbsp;&nbsp;&nbsp; [saifsidhik.page](https://saifsidhik.page)
 - &#9993; &nbsp;&nbsp;&nbsp;sxs1412@bham.ac.uk
 - <i class="fa fa-linkedin"></i>&nbsp;&nbsp;&nbsp; www.linkedin.com/in/saifsidhik/
 
