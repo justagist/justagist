@@ -28,18 +28,3 @@ foo@bar:~$ curl saifsidhik.page/connect
 ***
 
 <p align="center"><a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"> <img src=https://github-readme-stats.vercel.app/api?username=justagist&show_icons=true&title_color=b50e0e&bg_color=0e0e0e&icon_color=b50e0e&text_color=FFFFFF&hide_border=false&count_private=true alt=justagist /></a> </p>
-
-## Popular Repositories
-
-<a href="https://github.com/justagist/panda_simulator">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=justagist&repo=panda_simulator&title_color=b50e0e&bg_color=0e0e0e&icon_color=b50e0e&text_color=FFFFFF" />
-</a>
-<a href="https://github.com/justagist/franka_ros_interface">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=justagist&repo=franka_ros_interface&title_color=b50e0e&bg_color=0e0e0e&icon_color=b50e0e&text_color=FFFFFF" />
-</a>
-<a href="https://github.com/justagist/panda_robot">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=justagist&repo=panda_robot&title_color=b50e0e&bg_color=0e0e0e&icon_color=b50e0e&text_color=FFFFFF" />
-</a>
-<a href="https://github.com/justagist/pid_control_ardrone">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=justagist&repo=pid_control_ardrone&title_color=b50e0e&bg_color=0e0e0e&icon_color=b50e0e&text_color=FFFFFF" />
-</a>
