@@ -26,5 +26,5 @@ foo@bar:~$ curl saifsidhik.page/connect
 - <i class="fa fa-linkedin"></i>&nbsp;&nbsp;&nbsp; www.linkedin.com/in/saifsidhik/
 
 ***
-
-<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"> <img src=https://github-readme-stats.vercel.app/api?username=justagist&show_icons=true&title_color=b50e0e&bg_color=0e0e0e&icon_color=b50e0e&text_color=FFFFFF&hide_border=false&count_private=true alt=justagist /></a> </p>
+<!-- 
+<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"> <img src=https://github-readme-stats.vercel.app/api?username=justagist&show_icons=true&title_color=b50e0e&bg_color=0e0e0e&icon_color=b50e0e&text_color=FFFFFF&hide_border=false&count_private=true alt=justagist /></a> </p> -->
