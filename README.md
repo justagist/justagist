@@ -33,6 +33,3 @@ foo@bar:~$ curl https://saifsidhik.page/connect
 /></a> </p> 
 
 ***
-
-<p align="center"><a href="https://profile.codersrank.io/user/justagist" target="_blank"><img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=portfolio&username=justagist"
-/></a> </p> 
