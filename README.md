@@ -7,7 +7,7 @@
 
 <h4 markdown="1">About Me</h4>
 
-I currently work as a Senior Robotics Research Engineer at Dyson, mainly working on control and planning for mobile manipulation robots intended for helping in domestic tasks and environments.
+I currently work as Lead Robotics Research Engineer at Dyson, mainly working on control and planning for mobile manipulation robots intended for helping in domestic tasks and environments. My current research focus is on developing a control framework for enabling intelligent and environment-aware locomotion planning and control for different robot formats.
 
 Previously, I was a PhD student in the Intelligent Robotics Lab at the University of Birmingham, working on **"Machine Learing for Dexterous Robot Manipulation"**. The main area of my research was applying Machine Learning techniques to develop a framework that can aid robots to perform changing-contact manipulation tasks in dynamic and unknown environments using different objects.
 
