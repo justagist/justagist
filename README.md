@@ -1,13 +1,13 @@
 
-<a href="https://justagist.github.io"> 
-<img src="https://raw.githubusercontent.com/justagist/justagist/master/assets/github_profile.png" target="_blank" alt="Saif Sidhik Github Profile Banner">
-</a>
+
 
 <!-- ![](https://komarev.com/ghpvc/?username=justagist&color=b50e0e) -->
 
 <h4 markdown="1">About Me</h4>
 
-I currently work as Lead Robotics Research Engineer at Dyson, mainly working on control and planning for mobile manipulation robots intended for helping in domestic tasks and environments. My current research focus is on developing a control framework for enabling intelligent and environment-aware locomotion planning and control for different robot formats.
+Currently, as a Senior Robotics Engineer at Leap AI, I lead the development of the robot behaviour pipeline as well as software integration for the next-gen warehouse automation robotic solution.
+
+Previously, I was a Lead Robotics Research Engineer at Dyson, mainly working on control and planning for mobile manipulation robots intended for helping in domestic tasks and environments. My current research focus is on developing a control framework for enabling intelligent and environment-aware locomotion planning and control for different robot formats.
 
 Previously, I was a PhD student in the Intelligent Robotics Lab at the University of Birmingham, working on **"Machine Learing for Dexterous Robot Manipulation"**. The main area of my research was applying Machine Learning techniques to develop a framework that can aid robots to perform changing-contact manipulation tasks in dynamic and unknown environments using different objects.
 
